@@ -1,10 +1,6 @@
-﻿*CHÚ Ý: Sử dụng IDE Dev-C++ để chạy chương trình
+﻿*CHÚ Ý: Sử dụng IDE Dev-C++ để biên dịch chương trình (hoặc chạy file TuDienAnhViet.exe)
 
-* TÁC GIẢ:
-	- Nguyễn Chí Cường
-	- Phạm Minh Khoa
-	- Bùi Văn Ninh
-(Lớp KTPM13ATT - IUH)
+* TÁC GIẢ: Nguyễn Chí Cường (IUH)
 
 * HƯỚNG DÂN SỬ DỤNG
 	- Dùng các phím mũi tên để di chuyển lên xuống giửa các từ
@@ -15,7 +11,7 @@
 	- Dùng phím ESC để thoát chức năng hiện tại
 
 * THUẬT TOÁN - THƯ VIỆN SỬ DỤNG
-	- Phần mềm sử dụng cấu trúc dữ liệu con trỏ mảng struct
+	- Chương trình sử dụng cấu trúc dữ liệu con trỏ mảng struct
 	- Sử dụng thuật toán Linear Seacrh để tìm kiếm từ
 	- Sử dụng thuật toán Binary Search để tìm kiếm từ cần xóa, sửa, thêm (nếu không trùng)
 	- Sử dụng thuật toán Quick Sort để sắp xếp dữ liệu
